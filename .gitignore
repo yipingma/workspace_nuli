@@ -1,0 +1,10 @@
+# ignore eclipse project
+.checkstyle
+.classpath
+.metadata
+.project
+.settings
+# ignore maven's target
+target/
+# ingore the output files
+test-output
