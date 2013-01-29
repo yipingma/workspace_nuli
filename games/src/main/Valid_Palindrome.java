@@ -20,9 +20,12 @@ public class Valid_Palindrome {
 	 */
 	public static void main(String[] args) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 		// TODO Auto-generated method stub
 		System.out.println("myp");
 =======
+=======
+>>>>>>> f1874717c3456ffd84de22c23c0a3c6b7bf8af11
 		//Scanner**
 		Scanner input=new Scanner(System.in);
 		System.out.println("Input the string:");
@@ -54,6 +57,9 @@ public class Valid_Palindrome {
 			}
 		}
 		System.out.println("COOL!!!! This is a palindrome");
+<<<<<<< HEAD
+>>>>>>> f1874717c3456ffd84de22c23c0a3c6b7bf8af11
+=======
 >>>>>>> f1874717c3456ffd84de22c23c0a3c6b7bf8af11
 	}
 
